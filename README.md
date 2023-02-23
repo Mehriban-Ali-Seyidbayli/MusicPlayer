@@ -6,6 +6,9 @@
 
 Use this Music Player Application and enjoy different musics from different countries and singers.
 
+#### Netlify
+https://react-musicc-app.netlify.app/
+
 ### Screen Gif
 
 ![](screen.gif)
